@@ -15,8 +15,8 @@ GameObject:
   - component: {fileID: 2925163880587935597}
   - component: {fileID: 3798387349302669684}
   m_Layer: 29
-  m_Name: ObjectToSort
-  m_TagString: Untagged
+  m_Name: CursedItem
+  m_TagString: CursedItem
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -64,7 +64,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -5361539746963470247, guid: 106a5f255872f014cac56d3bb0d45a19, type: 3}
+  - {fileID: 2080559148259670360, guid: adb21e45c96be20429a68f77fe0372bd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
